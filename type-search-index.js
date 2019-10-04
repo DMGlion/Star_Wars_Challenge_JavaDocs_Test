@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"SpaceShipsAndCalculation","l":"SpaceShipsOperationsTest"},{"p":"<Unnamed>","l":"StarWarsAPItest"},{"p":"<Unnamed>","l":"UserActionScannerTest"}]
